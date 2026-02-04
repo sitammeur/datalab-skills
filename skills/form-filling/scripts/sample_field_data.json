@@ -1,0 +1,50 @@
+{
+  "full_name": {
+    "value": "Jane Smith",
+    "description": "Full legal name"
+  },
+  "date_of_birth": {
+    "value": "1990-05-15",
+    "description": "Date of birth (YYYY-MM-DD)"
+  },
+  "email": {
+    "value": "jane.smith@example.com",
+    "description": "Email address"
+  },
+  "phone": {
+    "value": "555-123-4567",
+    "description": "Phone number"
+  },
+  "address": {
+    "value": "123 Main Street, Apt 4B",
+    "description": "Street address"
+  },
+  "city": {
+    "value": "New York",
+    "description": "City"
+  },
+  "state": {
+    "value": "NY",
+    "description": "State abbreviation"
+  },
+  "zip_code": {
+    "value": "10001",
+    "description": "ZIP or postal code"
+  },
+  "ssn": {
+    "value": "123-45-6789",
+    "description": "Social Security Number"
+  },
+  "agree_terms": {
+    "value": "Yes",
+    "description": "Agreement to terms checkbox"
+  },
+  "signature": {
+    "value": "Jane Smith",
+    "description": "Signature field"
+  },
+  "date_signed": {
+    "value": "2024-01-15",
+    "description": "Date of signature"
+  }
+}
